@@ -1,6 +1,6 @@
 # UIODD
 应用于增强水下目标检测能力的水下数据库
 
-通过网盘分享的文件：output_images.zip
-链接: https://pan.baidu.com/s/1dDulS79EsO_Ix33gBrghhA 提取码: 25e4 
---来自百度网盘超级会员v1的分享
+我用夸克网盘分享了「DetBench」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+链接：https://pan.quark.cn/s/aa8645c51d99
+提取码：H52S
